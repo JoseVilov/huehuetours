@@ -1,0 +1,12 @@
+.container{
+    width: 60%;
+}
+.container path {
+    fill: blue;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+.container :hover {
+    fill: white;
+}
